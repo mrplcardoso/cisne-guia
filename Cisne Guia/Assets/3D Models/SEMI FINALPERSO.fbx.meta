@@ -1,0 +1,957 @@
+fileFormatVersion: 2
+guid: 52909188defcec446b67ee041dc4ccbe
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: Armature_001
+    100002: BezierCircle_001
+    100004: Bone
+    100006: Bone_001
+    100008: Bone_001_L
+    100010: Bone_001_L_001
+    100012: Bone_001_L_002
+    100014: Bone_001_L_003
+    100016: Bone_001_L_004
+    100018: Bone_001_R
+    100020: Bone_001_R_001
+    100022: Bone_001_R_002
+    100024: Bone_001_R_003
+    100026: Bone_001_R_004
+    100028: Bone_002
+    100030: Bone_L
+    100032: Bone_L_001
+    100034: Bone_L_002
+    100036: Bone_L_003
+    100038: Bone_L_004
+    100040: Bone_R
+    100042: Bone_R_001
+    100044: Bone_R_002
+    100046: Bone_R_003
+    100048: Bone_R_004
+    100050: ESLMOCHIFRES
+    100052: FAIXA_PERSONAGEM
+    100054: NurbsPath_001
+    100056: NurbsPath_003
+    100058: OMBRETES
+    100060: ROUPA_PERSONAGEM
+    100062: //RootNode
+    400000: Armature_001
+    400002: BezierCircle_001
+    400004: Bone
+    400006: Bone_001
+    400008: Bone_001_L
+    400010: Bone_001_L_001
+    400012: Bone_001_L_002
+    400014: Bone_001_L_003
+    400016: Bone_001_L_004
+    400018: Bone_001_R
+    400020: Bone_001_R_001
+    400022: Bone_001_R_002
+    400024: Bone_001_R_003
+    400026: Bone_001_R_004
+    400028: Bone_002
+    400030: Bone_L
+    400032: Bone_L_001
+    400034: Bone_L_002
+    400036: Bone_L_003
+    400038: Bone_L_004
+    400040: Bone_R
+    400042: Bone_R_001
+    400044: Bone_R_002
+    400046: Bone_R_003
+    400048: Bone_R_004
+    400050: ESLMOCHIFRES
+    400052: FAIXA_PERSONAGEM
+    400054: NurbsPath_001
+    400056: NurbsPath_003
+    400058: OMBRETES
+    400060: ROUPA_PERSONAGEM
+    400062: //RootNode
+    2300000: BezierCircle_001
+    3300000: BezierCircle_001
+    4300002: ROUPA_PERSONAGEM
+    4300004: OMBRETES
+    4300006: NurbsPath_003
+    4300008: FAIXA_PERSONAGEM
+    4300010: ESLMOCHIFRES
+    4300012: NurbsPath_001
+    7400000: Default Take
+    7400002: andando_personagem
+    7400004: andando_personagem_001
+    7400006: ataq_direita
+    7400008: ataq_dois_lados
+    7400010: ataq_esq
+    7400012: ataque_direita_perso
+    7400014: ataqueesquerda_perso
+    7400016: padr_o
+    9500000: //RootNode
+    13700000: ESLMOCHIFRES
+    13700002: FAIXA_PERSONAGEM
+    13700004: NurbsPath_001
+    13700006: NurbsPath_003
+    13700008: OMBRETES
+    13700010: ROUPA_PERSONAGEM
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Default Take
+      takeName: Default Take
+      firstFrame: 0
+      lastFrame: 39
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Armature_001
+        weight: 1
+      - path: Armature_001/Bone
+        weight: 1
+      - path: Armature_001/Bone/Bone_001
+        weight: 1
+      - path: Armature_001/Bone/Bone_001/Bone_001_L
+        weight: 1
+      - path: Armature_001/Bone/Bone_001/Bone_001_L/Bone_001_L_001
+        weight: 1
+      - path: Armature_001/Bone/Bone_001/Bone_001_L/Bone_001_L_001/Bone_001_L_002
+        weight: 1
+      - path: Armature_001/Bone/Bone_001/Bone_001_L/Bone_001_L_001/Bone_001_L_002/Bone_001_L_003
+        weight: 1
+      - path: Armature_001/Bone/Bone_001/Bone_001_L/Bone_001_L_001/Bone_001_L_002/Bone_001_L_004
+        weight: 1
+      - path: Armature_001/Bone/Bone_001/Bone_001_R
+        weight: 1
+      - path: Armature_001/Bone/Bone_001/Bone_001_R/Bone_001_R_001
+        weight: 1
+      - path: Armature_001/Bone/Bone_001/Bone_001_R/Bone_001_R_001/Bone_001_R_002
+        weight: 1
+      - path: Armature_001/Bone/Bone_001/Bone_001_R/Bone_001_R_001/Bone_001_R_002/Bone_001_R_003
+        weight: 1
+      - path: Armature_001/Bone/Bone_001/Bone_001_R/Bone_001_R_001/Bone_001_R_002/Bone_001_R_004
+        weight: 1
+      - path: Armature_001/Bone/Bone_001/Bone_002
+        weight: 1
+      - path: Armature_001/Bone_L
+        weight: 1
+      - path: Armature_001/Bone_L/Bone_L_001
+        weight: 1
+      - path: Armature_001/Bone_L/Bone_L_001/Bone_L_002
+        weight: 1
+      - path: Armature_001/Bone_L/Bone_L_001/Bone_L_002/Bone_L_003
+        weight: 1
+      - path: Armature_001/Bone_L/Bone_L_001/Bone_L_002/Bone_L_003/Bone_L_004
+        weight: 1
+      - path: Armature_001/Bone_R
+        weight: 1
+      - path: Armature_001/Bone_R/Bone_R_001
+        weight: 1
+      - path: Armature_001/Bone_R/Bone_R_001/Bone_R_002
+        weight: 1
+      - path: Armature_001/Bone_R/Bone_R_001/Bone_R_002/Bone_R_003
+        weight: 1
+      - path: Armature_001/Bone_R/Bone_R_001/Bone_R_002/Bone_R_003/Bone_R_004
+        weight: 1
+      - path: BezierCircle_001
+        weight: 1
+      - path: ESLMOCHIFRES
+        weight: 1
+      - path: FAIXA_PERSONAGEM
+        weight: 1
+      - path: NurbsPath_001
+        weight: 1
+      - path: NurbsPath_003
+        weight: 1
+      - path: OMBRETES
+        weight: 1
+      - path: ROUPA_PERSONAGEM
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: andando_personagem
+      takeName: andando_personagem
+      firstFrame: -1
+      lastFrame: 39
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Armature_001
+        weight: 1
+      - path: Armature_001/Bone
+        weight: 1
+      - path: Armature_001/Bone/Bone_001
+        weight: 1
+      - path: Armature_001/Bone/Bone_001/Bone_001_L
+        weight: 1
+      - path: Armature_001/Bone/Bone_001/Bone_001_L/Bone_001_L_001
+        weight: 1
+      - path: Armature_001/Bone/Bone_001/Bone_001_L/Bone_001_L_001/Bone_001_L_002
+        weight: 1
+      - path: Armature_001/Bone/Bone_001/Bone_001_L/Bone_001_L_001/Bone_001_L_002/Bone_001_L_003
+        weight: 1
+      - path: Armature_001/Bone/Bone_001/Bone_001_L/Bone_001_L_001/Bone_001_L_002/Bone_001_L_004
+        weight: 1
+      - path: Armature_001/Bone/Bone_001/Bone_001_R
+        weight: 1
+      - path: Armature_001/Bone/Bone_001/Bone_001_R/Bone_001_R_001
+        weight: 1
+      - path: Armature_001/Bone/Bone_001/Bone_001_R/Bone_001_R_001/Bone_001_R_002
+        weight: 1
+      - path: Armature_001/Bone/Bone_001/Bone_001_R/Bone_001_R_001/Bone_001_R_002/Bone_001_R_003
+        weight: 1
+      - path: Armature_001/Bone/Bone_001/Bone_001_R/Bone_001_R_001/Bone_001_R_002/Bone_001_R_004
+        weight: 1
+      - path: Armature_001/Bone/Bone_001/Bone_002
+        weight: 1
+      - path: Armature_001/Bone_L
+        weight: 1
+      - path: Armature_001/Bone_L/Bone_L_001
+        weight: 1
+      - path: Armature_001/Bone_L/Bone_L_001/Bone_L_002
+        weight: 1
+      - path: Armature_001/Bone_L/Bone_L_001/Bone_L_002/Bone_L_003
+        weight: 1
+      - path: Armature_001/Bone_L/Bone_L_001/Bone_L_002/Bone_L_003/Bone_L_004
+        weight: 1
+      - path: Armature_001/Bone_R
+        weight: 1
+      - path: Armature_001/Bone_R/Bone_R_001
+        weight: 1
+      - path: Armature_001/Bone_R/Bone_R_001/Bone_R_002
+        weight: 1
+      - path: Armature_001/Bone_R/Bone_R_001/Bone_R_002/Bone_R_003
+        weight: 1
+      - path: Armature_001/Bone_R/Bone_R_001/Bone_R_002/Bone_R_003/Bone_R_004
+        weight: 1
+      - path: BezierCircle_001
+        weight: 1
+      - path: ESLMOCHIFRES
+        weight: 1
+      - path: FAIXA_PERSONAGEM
+        weight: 1
+      - path: NurbsPath_001
+        weight: 1
+      - path: NurbsPath_003
+        weight: 1
+      - path: OMBRETES
+        weight: 1
+      - path: ROUPA_PERSONAGEM
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: andando_personagem_001
+      takeName: andando_personagem_001
+      firstFrame: -1
+      lastFrame: 39
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Armature_001
+        weight: 1
+      - path: Armature_001/Bone
+        weight: 1
+      - path: Armature_001/Bone/Bone_001
+        weight: 1
+      - path: Armature_001/Bone/Bone_001/Bone_001_L
+        weight: 1
+      - path: Armature_001/Bone/Bone_001/Bone_001_L/Bone_001_L_001
+        weight: 1
+      - path: Armature_001/Bone/Bone_001/Bone_001_L/Bone_001_L_001/Bone_001_L_002
+        weight: 1
+      - path: Armature_001/Bone/Bone_001/Bone_001_L/Bone_001_L_001/Bone_001_L_002/Bone_001_L_003
+        weight: 1
+      - path: Armature_001/Bone/Bone_001/Bone_001_L/Bone_001_L_001/Bone_001_L_002/Bone_001_L_004
+        weight: 1
+      - path: Armature_001/Bone/Bone_001/Bone_001_R
+        weight: 1
+      - path: Armature_001/Bone/Bone_001/Bone_001_R/Bone_001_R_001
+        weight: 1
+      - path: Armature_001/Bone/Bone_001/Bone_001_R/Bone_001_R_001/Bone_001_R_002
+        weight: 1
+      - path: Armature_001/Bone/Bone_001/Bone_001_R/Bone_001_R_001/Bone_001_R_002/Bone_001_R_003
+        weight: 1
+      - path: Armature_001/Bone/Bone_001/Bone_001_R/Bone_001_R_001/Bone_001_R_002/Bone_001_R_004
+        weight: 1
+      - path: Armature_001/Bone/Bone_001/Bone_002
+        weight: 1
+      - path: Armature_001/Bone_L
+        weight: 1
+      - path: Armature_001/Bone_L/Bone_L_001
+        weight: 1
+      - path: Armature_001/Bone_L/Bone_L_001/Bone_L_002
+        weight: 1
+      - path: Armature_001/Bone_L/Bone_L_001/Bone_L_002/Bone_L_003
+        weight: 1
+      - path: Armature_001/Bone_L/Bone_L_001/Bone_L_002/Bone_L_003/Bone_L_004
+        weight: 1
+      - path: Armature_001/Bone_R
+        weight: 1
+      - path: Armature_001/Bone_R/Bone_R_001
+        weight: 1
+      - path: Armature_001/Bone_R/Bone_R_001/Bone_R_002
+        weight: 1
+      - path: Armature_001/Bone_R/Bone_R_001/Bone_R_002/Bone_R_003
+        weight: 1
+      - path: Armature_001/Bone_R/Bone_R_001/Bone_R_002/Bone_R_003/Bone_R_004
+        weight: 1
+      - path: BezierCircle_001
+        weight: 1
+      - path: ESLMOCHIFRES
+        weight: 1
+      - path: FAIXA_PERSONAGEM
+        weight: 1
+      - path: NurbsPath_001
+        weight: 1
+      - path: NurbsPath_003
+        weight: 1
+      - path: OMBRETES
+        weight: 1
+      - path: ROUPA_PERSONAGEM
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: ataq_direita
+      takeName: ataq_direita
+      firstFrame: -1
+      lastFrame: 5
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Armature_001
+        weight: 1
+      - path: Armature_001/Bone
+        weight: 1
+      - path: Armature_001/Bone/Bone_001
+        weight: 1
+      - path: Armature_001/Bone/Bone_001/Bone_001_L
+        weight: 1
+      - path: Armature_001/Bone/Bone_001/Bone_001_L/Bone_001_L_001
+        weight: 1
+      - path: Armature_001/Bone/Bone_001/Bone_001_L/Bone_001_L_001/Bone_001_L_002
+        weight: 1
+      - path: Armature_001/Bone/Bone_001/Bone_001_L/Bone_001_L_001/Bone_001_L_002/Bone_001_L_003
+        weight: 1
+      - path: Armature_001/Bone/Bone_001/Bone_001_L/Bone_001_L_001/Bone_001_L_002/Bone_001_L_004
+        weight: 1
+      - path: Armature_001/Bone/Bone_001/Bone_001_R
+        weight: 1
+      - path: Armature_001/Bone/Bone_001/Bone_001_R/Bone_001_R_001
+        weight: 1
+      - path: Armature_001/Bone/Bone_001/Bone_001_R/Bone_001_R_001/Bone_001_R_002
+        weight: 1
+      - path: Armature_001/Bone/Bone_001/Bone_001_R/Bone_001_R_001/Bone_001_R_002/Bone_001_R_003
+        weight: 1
+      - path: Armature_001/Bone/Bone_001/Bone_001_R/Bone_001_R_001/Bone_001_R_002/Bone_001_R_004
+        weight: 1
+      - path: Armature_001/Bone/Bone_001/Bone_002
+        weight: 1
+      - path: Armature_001/Bone_L
+        weight: 1
+      - path: Armature_001/Bone_L/Bone_L_001
+        weight: 1
+      - path: Armature_001/Bone_L/Bone_L_001/Bone_L_002
+        weight: 1
+      - path: Armature_001/Bone_L/Bone_L_001/Bone_L_002/Bone_L_003
+        weight: 1
+      - path: Armature_001/Bone_L/Bone_L_001/Bone_L_002/Bone_L_003/Bone_L_004
+        weight: 1
+      - path: Armature_001/Bone_R
+        weight: 1
+      - path: Armature_001/Bone_R/Bone_R_001
+        weight: 1
+      - path: Armature_001/Bone_R/Bone_R_001/Bone_R_002
+        weight: 1
+      - path: Armature_001/Bone_R/Bone_R_001/Bone_R_002/Bone_R_003
+        weight: 1
+      - path: Armature_001/Bone_R/Bone_R_001/Bone_R_002/Bone_R_003/Bone_R_004
+        weight: 1
+      - path: BezierCircle_001
+        weight: 1
+      - path: ESLMOCHIFRES
+        weight: 1
+      - path: FAIXA_PERSONAGEM
+        weight: 1
+      - path: NurbsPath_001
+        weight: 1
+      - path: NurbsPath_003
+        weight: 1
+      - path: OMBRETES
+        weight: 1
+      - path: ROUPA_PERSONAGEM
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: ataq_dois_lados
+      takeName: ataq_dois_lados
+      firstFrame: -1
+      lastFrame: 5
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Armature_001
+        weight: 1
+      - path: Armature_001/Bone
+        weight: 1
+      - path: Armature_001/Bone/Bone_001
+        weight: 1
+      - path: Armature_001/Bone/Bone_001/Bone_001_L
+        weight: 1
+      - path: Armature_001/Bone/Bone_001/Bone_001_L/Bone_001_L_001
+        weight: 1
+      - path: Armature_001/Bone/Bone_001/Bone_001_L/Bone_001_L_001/Bone_001_L_002
+        weight: 1
+      - path: Armature_001/Bone/Bone_001/Bone_001_L/Bone_001_L_001/Bone_001_L_002/Bone_001_L_003
+        weight: 1
+      - path: Armature_001/Bone/Bone_001/Bone_001_L/Bone_001_L_001/Bone_001_L_002/Bone_001_L_004
+        weight: 1
+      - path: Armature_001/Bone/Bone_001/Bone_001_R
+        weight: 1
+      - path: Armature_001/Bone/Bone_001/Bone_001_R/Bone_001_R_001
+        weight: 1
+      - path: Armature_001/Bone/Bone_001/Bone_001_R/Bone_001_R_001/Bone_001_R_002
+        weight: 1
+      - path: Armature_001/Bone/Bone_001/Bone_001_R/Bone_001_R_001/Bone_001_R_002/Bone_001_R_003
+        weight: 1
+      - path: Armature_001/Bone/Bone_001/Bone_001_R/Bone_001_R_001/Bone_001_R_002/Bone_001_R_004
+        weight: 1
+      - path: Armature_001/Bone/Bone_001/Bone_002
+        weight: 1
+      - path: Armature_001/Bone_L
+        weight: 1
+      - path: Armature_001/Bone_L/Bone_L_001
+        weight: 1
+      - path: Armature_001/Bone_L/Bone_L_001/Bone_L_002
+        weight: 1
+      - path: Armature_001/Bone_L/Bone_L_001/Bone_L_002/Bone_L_003
+        weight: 1
+      - path: Armature_001/Bone_L/Bone_L_001/Bone_L_002/Bone_L_003/Bone_L_004
+        weight: 1
+      - path: Armature_001/Bone_R
+        weight: 1
+      - path: Armature_001/Bone_R/Bone_R_001
+        weight: 1
+      - path: Armature_001/Bone_R/Bone_R_001/Bone_R_002
+        weight: 1
+      - path: Armature_001/Bone_R/Bone_R_001/Bone_R_002/Bone_R_003
+        weight: 1
+      - path: Armature_001/Bone_R/Bone_R_001/Bone_R_002/Bone_R_003/Bone_R_004
+        weight: 1
+      - path: BezierCircle_001
+        weight: 1
+      - path: ESLMOCHIFRES
+        weight: 1
+      - path: FAIXA_PERSONAGEM
+        weight: 1
+      - path: NurbsPath_001
+        weight: 1
+      - path: NurbsPath_003
+        weight: 1
+      - path: OMBRETES
+        weight: 1
+      - path: ROUPA_PERSONAGEM
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: ataq_esq
+      takeName: ataq_esq
+      firstFrame: -1
+      lastFrame: 4
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Armature_001
+        weight: 1
+      - path: Armature_001/Bone
+        weight: 1
+      - path: Armature_001/Bone/Bone_001
+        weight: 1
+      - path: Armature_001/Bone/Bone_001/Bone_001_L
+        weight: 1
+      - path: Armature_001/Bone/Bone_001/Bone_001_L/Bone_001_L_001
+        weight: 1
+      - path: Armature_001/Bone/Bone_001/Bone_001_L/Bone_001_L_001/Bone_001_L_002
+        weight: 1
+      - path: Armature_001/Bone/Bone_001/Bone_001_L/Bone_001_L_001/Bone_001_L_002/Bone_001_L_003
+        weight: 1
+      - path: Armature_001/Bone/Bone_001/Bone_001_L/Bone_001_L_001/Bone_001_L_002/Bone_001_L_004
+        weight: 1
+      - path: Armature_001/Bone/Bone_001/Bone_001_R
+        weight: 1
+      - path: Armature_001/Bone/Bone_001/Bone_001_R/Bone_001_R_001
+        weight: 1
+      - path: Armature_001/Bone/Bone_001/Bone_001_R/Bone_001_R_001/Bone_001_R_002
+        weight: 1
+      - path: Armature_001/Bone/Bone_001/Bone_001_R/Bone_001_R_001/Bone_001_R_002/Bone_001_R_003
+        weight: 1
+      - path: Armature_001/Bone/Bone_001/Bone_001_R/Bone_001_R_001/Bone_001_R_002/Bone_001_R_004
+        weight: 1
+      - path: Armature_001/Bone/Bone_001/Bone_002
+        weight: 1
+      - path: Armature_001/Bone_L
+        weight: 1
+      - path: Armature_001/Bone_L/Bone_L_001
+        weight: 1
+      - path: Armature_001/Bone_L/Bone_L_001/Bone_L_002
+        weight: 1
+      - path: Armature_001/Bone_L/Bone_L_001/Bone_L_002/Bone_L_003
+        weight: 1
+      - path: Armature_001/Bone_L/Bone_L_001/Bone_L_002/Bone_L_003/Bone_L_004
+        weight: 1
+      - path: Armature_001/Bone_R
+        weight: 1
+      - path: Armature_001/Bone_R/Bone_R_001
+        weight: 1
+      - path: Armature_001/Bone_R/Bone_R_001/Bone_R_002
+        weight: 1
+      - path: Armature_001/Bone_R/Bone_R_001/Bone_R_002/Bone_R_003
+        weight: 1
+      - path: Armature_001/Bone_R/Bone_R_001/Bone_R_002/Bone_R_003/Bone_R_004
+        weight: 1
+      - path: BezierCircle_001
+        weight: 1
+      - path: ESLMOCHIFRES
+        weight: 1
+      - path: FAIXA_PERSONAGEM
+        weight: 1
+      - path: NurbsPath_001
+        weight: 1
+      - path: NurbsPath_003
+        weight: 1
+      - path: OMBRETES
+        weight: 1
+      - path: ROUPA_PERSONAGEM
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: ataque_direita_perso
+      takeName: ataque_direita_perso
+      firstFrame: -1
+      lastFrame: 8
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Armature_001
+        weight: 1
+      - path: Armature_001/Bone
+        weight: 1
+      - path: Armature_001/Bone/Bone_001
+        weight: 1
+      - path: Armature_001/Bone/Bone_001/Bone_001_L
+        weight: 1
+      - path: Armature_001/Bone/Bone_001/Bone_001_L/Bone_001_L_001
+        weight: 1
+      - path: Armature_001/Bone/Bone_001/Bone_001_L/Bone_001_L_001/Bone_001_L_002
+        weight: 1
+      - path: Armature_001/Bone/Bone_001/Bone_001_L/Bone_001_L_001/Bone_001_L_002/Bone_001_L_003
+        weight: 1
+      - path: Armature_001/Bone/Bone_001/Bone_001_L/Bone_001_L_001/Bone_001_L_002/Bone_001_L_004
+        weight: 1
+      - path: Armature_001/Bone/Bone_001/Bone_001_R
+        weight: 1
+      - path: Armature_001/Bone/Bone_001/Bone_001_R/Bone_001_R_001
+        weight: 1
+      - path: Armature_001/Bone/Bone_001/Bone_001_R/Bone_001_R_001/Bone_001_R_002
+        weight: 1
+      - path: Armature_001/Bone/Bone_001/Bone_001_R/Bone_001_R_001/Bone_001_R_002/Bone_001_R_003
+        weight: 1
+      - path: Armature_001/Bone/Bone_001/Bone_001_R/Bone_001_R_001/Bone_001_R_002/Bone_001_R_004
+        weight: 1
+      - path: Armature_001/Bone/Bone_001/Bone_002
+        weight: 1
+      - path: Armature_001/Bone_L
+        weight: 1
+      - path: Armature_001/Bone_L/Bone_L_001
+        weight: 1
+      - path: Armature_001/Bone_L/Bone_L_001/Bone_L_002
+        weight: 1
+      - path: Armature_001/Bone_L/Bone_L_001/Bone_L_002/Bone_L_003
+        weight: 1
+      - path: Armature_001/Bone_L/Bone_L_001/Bone_L_002/Bone_L_003/Bone_L_004
+        weight: 1
+      - path: Armature_001/Bone_R
+        weight: 1
+      - path: Armature_001/Bone_R/Bone_R_001
+        weight: 1
+      - path: Armature_001/Bone_R/Bone_R_001/Bone_R_002
+        weight: 1
+      - path: Armature_001/Bone_R/Bone_R_001/Bone_R_002/Bone_R_003
+        weight: 1
+      - path: Armature_001/Bone_R/Bone_R_001/Bone_R_002/Bone_R_003/Bone_R_004
+        weight: 1
+      - path: BezierCircle_001
+        weight: 1
+      - path: ESLMOCHIFRES
+        weight: 1
+      - path: FAIXA_PERSONAGEM
+        weight: 1
+      - path: NurbsPath_001
+        weight: 1
+      - path: NurbsPath_003
+        weight: 1
+      - path: OMBRETES
+        weight: 1
+      - path: ROUPA_PERSONAGEM
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: ataqueesquerda_perso
+      takeName: ataqueesquerda_perso
+      firstFrame: -1
+      lastFrame: 9
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Armature_001
+        weight: 1
+      - path: Armature_001/Bone
+        weight: 1
+      - path: Armature_001/Bone/Bone_001
+        weight: 1
+      - path: Armature_001/Bone/Bone_001/Bone_001_L
+        weight: 1
+      - path: Armature_001/Bone/Bone_001/Bone_001_L/Bone_001_L_001
+        weight: 1
+      - path: Armature_001/Bone/Bone_001/Bone_001_L/Bone_001_L_001/Bone_001_L_002
+        weight: 1
+      - path: Armature_001/Bone/Bone_001/Bone_001_L/Bone_001_L_001/Bone_001_L_002/Bone_001_L_003
+        weight: 1
+      - path: Armature_001/Bone/Bone_001/Bone_001_L/Bone_001_L_001/Bone_001_L_002/Bone_001_L_004
+        weight: 1
+      - path: Armature_001/Bone/Bone_001/Bone_001_R
+        weight: 1
+      - path: Armature_001/Bone/Bone_001/Bone_001_R/Bone_001_R_001
+        weight: 1
+      - path: Armature_001/Bone/Bone_001/Bone_001_R/Bone_001_R_001/Bone_001_R_002
+        weight: 1
+      - path: Armature_001/Bone/Bone_001/Bone_001_R/Bone_001_R_001/Bone_001_R_002/Bone_001_R_003
+        weight: 1
+      - path: Armature_001/Bone/Bone_001/Bone_001_R/Bone_001_R_001/Bone_001_R_002/Bone_001_R_004
+        weight: 1
+      - path: Armature_001/Bone/Bone_001/Bone_002
+        weight: 1
+      - path: Armature_001/Bone_L
+        weight: 1
+      - path: Armature_001/Bone_L/Bone_L_001
+        weight: 1
+      - path: Armature_001/Bone_L/Bone_L_001/Bone_L_002
+        weight: 1
+      - path: Armature_001/Bone_L/Bone_L_001/Bone_L_002/Bone_L_003
+        weight: 1
+      - path: Armature_001/Bone_L/Bone_L_001/Bone_L_002/Bone_L_003/Bone_L_004
+        weight: 1
+      - path: Armature_001/Bone_R
+        weight: 1
+      - path: Armature_001/Bone_R/Bone_R_001
+        weight: 1
+      - path: Armature_001/Bone_R/Bone_R_001/Bone_R_002
+        weight: 1
+      - path: Armature_001/Bone_R/Bone_R_001/Bone_R_002/Bone_R_003
+        weight: 1
+      - path: Armature_001/Bone_R/Bone_R_001/Bone_R_002/Bone_R_003/Bone_R_004
+        weight: 1
+      - path: BezierCircle_001
+        weight: 1
+      - path: ESLMOCHIFRES
+        weight: 1
+      - path: FAIXA_PERSONAGEM
+        weight: 1
+      - path: NurbsPath_001
+        weight: 1
+      - path: NurbsPath_003
+        weight: 1
+      - path: OMBRETES
+        weight: 1
+      - path: ROUPA_PERSONAGEM
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: padr_o
+      takeName: padr_o
+      firstFrame: 0
+      lastFrame: 41
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Armature_001
+        weight: 1
+      - path: Armature_001/Bone
+        weight: 1
+      - path: Armature_001/Bone/Bone_001
+        weight: 1
+      - path: Armature_001/Bone/Bone_001/Bone_001_L
+        weight: 1
+      - path: Armature_001/Bone/Bone_001/Bone_001_L/Bone_001_L_001
+        weight: 1
+      - path: Armature_001/Bone/Bone_001/Bone_001_L/Bone_001_L_001/Bone_001_L_002
+        weight: 1
+      - path: Armature_001/Bone/Bone_001/Bone_001_L/Bone_001_L_001/Bone_001_L_002/Bone_001_L_003
+        weight: 1
+      - path: Armature_001/Bone/Bone_001/Bone_001_L/Bone_001_L_001/Bone_001_L_002/Bone_001_L_004
+        weight: 1
+      - path: Armature_001/Bone/Bone_001/Bone_001_R
+        weight: 1
+      - path: Armature_001/Bone/Bone_001/Bone_001_R/Bone_001_R_001
+        weight: 1
+      - path: Armature_001/Bone/Bone_001/Bone_001_R/Bone_001_R_001/Bone_001_R_002
+        weight: 1
+      - path: Armature_001/Bone/Bone_001/Bone_001_R/Bone_001_R_001/Bone_001_R_002/Bone_001_R_003
+        weight: 1
+      - path: Armature_001/Bone/Bone_001/Bone_001_R/Bone_001_R_001/Bone_001_R_002/Bone_001_R_004
+        weight: 1
+      - path: Armature_001/Bone/Bone_001/Bone_002
+        weight: 1
+      - path: Armature_001/Bone_L
+        weight: 1
+      - path: Armature_001/Bone_L/Bone_L_001
+        weight: 1
+      - path: Armature_001/Bone_L/Bone_L_001/Bone_L_002
+        weight: 1
+      - path: Armature_001/Bone_L/Bone_L_001/Bone_L_002/Bone_L_003
+        weight: 1
+      - path: Armature_001/Bone_L/Bone_L_001/Bone_L_002/Bone_L_003/Bone_L_004
+        weight: 1
+      - path: Armature_001/Bone_R
+        weight: 1
+      - path: Armature_001/Bone_R/Bone_R_001
+        weight: 1
+      - path: Armature_001/Bone_R/Bone_R_001/Bone_R_002
+        weight: 1
+      - path: Armature_001/Bone_R/Bone_R_001/Bone_R_002/Bone_R_003
+        weight: 1
+      - path: Armature_001/Bone_R/Bone_R_001/Bone_R_002/Bone_R_003/Bone_R_004
+        weight: 1
+      - path: BezierCircle_001
+        weight: 1
+      - path: ESLMOCHIFRES
+        weight: 1
+      - path: FAIXA_PERSONAGEM
+        weight: 1
+      - path: NurbsPath_001
+        weight: 1
+      - path: NurbsPath_003
+        weight: 1
+      - path: OMBRETES
+        weight: 1
+      - path: ROUPA_PERSONAGEM
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .200000003
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 
