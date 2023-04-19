@@ -2,7 +2,7 @@
 
 # Cisne Guia
 
-Game made from a Game Jam. The theme was a castle where a princess lived waiting for a soldier.
+Game made from a Game Jam (2015). The theme was a castle where a princess lived waiting for a soldier.
 Remake using old assets.
 
 ## Requirements
@@ -15,8 +15,8 @@ Remake using old assets.
 
 ## Authors
 
-* **Felipe Dias**
-* **Luiz Carlos P. Jr.**
-* **Marcos Lima**
-* **Marcos Paulo Cardoso**
-* **Gabriel Tararam**
+* **Felipe Dias: **2D Artist, Concept Artist
+* **Luiz Carlos P. Jr.: **Programmer
+* **Marcos Lima: **Music/SFX Composer
+* **Marcos Paulo Cardoso: **Programmer, Music Composer
+* **Gabriel Tararam: **3D Artist
