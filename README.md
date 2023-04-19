@@ -1,5 +1,3 @@
-# README #
-
 # Cisne Guia
 
 Game made from a Game Jam (2015). The theme was a castle where a princess lived waiting for a soldier.
@@ -12,6 +10,10 @@ Remake using old assets.
 ## Web Build
 
 - https://gamejolt.com/games/cisne_guia/581116
+
+## Video Demo
+
+- https://youtu.be/t3YBaHSFMkk
 
 ## Authors
 
