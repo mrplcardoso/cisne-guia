@@ -11,7 +11,7 @@ Remake using old assets.
 
 - https://gamejolt.com/games/cisne_guia/581116
 
-## Video Demo
+## Demo Video
 
 - https://youtu.be/t3YBaHSFMkk
 
