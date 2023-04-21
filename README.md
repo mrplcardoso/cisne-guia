@@ -13,11 +13,11 @@ Web: https://gamejolt.com/games/cisne_guia/581116
 
 ## Authors
 
-* **Felipe Dias: **2D Artist, Concept Artist
-* **Luiz Carlos P. Jr.: **Programmer
-* **Marcos Lima: **Music/SFX Composer
+* Felipe Dias: 2D Artist, Concept Artist
+* Luiz Carlos P. Jr.: Programmer
+* Marcos Lima: Music/SFX Composer
 * Marcos Cardoso ([Game Jolt](https://gamejolt.com/@marcoscardoso1_b064/games), mrplcardoso@gmail.com): Programmer, Music Composer
-* **Gabriel Tararam: **3D Artist
+* Gabriel Tararam: 3D Artist
 
 ## Requirements
 
